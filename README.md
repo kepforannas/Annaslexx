@@ -1,35 +1,35 @@
-<h1 align="center">Hey there! 👋 I'm <span style="color:#4CAF50;">KepForAnnas</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">KepForAnnas</span></h1>
 <h3 align="center">Indie Developer | Tech Enthusiast | Always Creating</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4CAF50&width=500&lines=Welcome+to+my+GitHub!;I'm+KepForAnnas.;Let's+build+something+awesome+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4CAF50&width=500&lines=Welcome+to+my+GitHub!;I'm+KepForAnnas.;Let's+build+awesome+stuff+together!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💻 About Me
 
-- 🔭 Currently focused on building scalable web apps & bots  
+- 🔭 Currently focused on scalable web apps & bots  
 - 🌱 Exploring Rust, Go, and AI-powered automation  
-- 💬 Always open to collaborating on innovative projects  
-- 🎯 Passionate about clean code, UX, and open source  
+- 💬 Open for collaboration and new challenges  
+- 🎯 Passionate about clean code & UX  
 
 ---
 
-### 📫 Get In Touch
+### 📫 Contact Me
 
 <p align="center">
-  <a href="https://t.me/Alpooooooofoluv" target="_blank" style="margin:0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" width="40" height="40" />
-    <br />@Alpooooooofoluv
+  <a href="https://t.me/Alpooooooofoluv" target="_blank" style="margin: 0 15px; text-decoration:none; color:#000;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" width="24" height="24" style="vertical-align:middle;" />
+    <span style="margin-left:6px; vertical-align:middle;">@Alpooooooofoluv</span>
   </a>
-  <a href="https://wa.me/6285768351775" target="_blank" style="margin:0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" width="40" height="40" />
-    <br />+62 857-6835-1775
+  <a href="https://wa.me/6285768351775" target="_blank" style="margin: 0 15px; text-decoration:none; color:#000;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" width="24" height="24" style="vertical-align:middle;" />
+    <span style="margin-left:6px; vertical-align:middle;">+62 857-6835-1775</span>
   </a>
-  <a href="https://www.tiktok.com/@kepForAnnas" target="_blank" style="margin:0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tiktok.svg" alt="TikTok" width="40" height="40" />
-    <br />@kepForAnnas
+  <a href="https://www.tiktok.com/@kepForAnnas" target="_blank" style="margin: 0 15px; text-decoration:none; color:#000;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tiktok.svg" alt="TikTok" width="24" height="24" style="vertical-align:middle;" />
+    <span style="margin-left:6px; vertical-align:middle;">@kepForAnnas</span>
   </a>
 </p>
 
@@ -52,6 +52,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4rnzz&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rnzz&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -65,7 +67,7 @@
 
 ---
 
-### 🔥 Let's Connect & Build Amazing Things!
+### 🔥 Let's Connect!
 
 <p align="center">
   <a href="https://github.com/4rnzz" target="_blank">
