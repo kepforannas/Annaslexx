@@ -1,42 +1,41 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=1600&q=80" alt="hero image" width="100%" style="border-radius:10px;" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Animated Hero" width="100%" style="border-radius:10px; filter: brightness(0.9);" />
 </p>
 
 <h1 align="center">
-  <span style="color:#4CAF50;">Assalamu'alaikum Warahmatullahi Wabarakatuh! 👋</span><br>
-  <span style="background:linear-gradient(90deg,#4CAF50,#2196F3);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">
-    I’M KepForAnnas
+  <span style="background:linear-gradient(90deg,#4CAF50,#2196F3);font-weight:bold;-webkit-background-clip:text;-webkit-text-fill-color:transparent;">
+    Assalamu'alaikum 👋, I'm KepForAnnas
   </span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=4CAF50&width=600&lines=Building+Code+with+Soul.;Creating+Next-Level+Bots.;Let's+Make+Magic!;Follow+for+More+%F0%9F%92%A1" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=4CAF50&width=700&lines=Building+Code+with+Soul.;Creating+Next-Level+Bots.;Coding+is+Art.;Let's+Make+Magic!" alt="typing effect" />
 </p>
 
 ---
 
 ## 👨‍💻 Tentang Saya
 
-Halo, saya **KepForAnnas** – indie developer yang serius membangun aplikasi & bot keren.  
-Koding bagi saya adalah **seni merangkai ide menjadi solusi nyata**:
+Halo, saya **KepForAnnas** – indie developer dan bot maker.  
+Coding bagi saya adalah **seni mengubah ide menjadi aksi nyata**, dari web app hingga bot otomatis penuh fungsi.
 
-> _“Code bukan sekadar logika, tapi cara menciptakan keajaiban.”_
+> _“Code adalah puisi digital — setiap baris punya tujuan, estetika, dan dampak.”_
 
-Saya suka:
-- Web & Bot development (WhatsApp, Telegram)  
+Saya tertarik:
 - Automasi & AI sederhana  
-- UX/UI yang bersih dan mudah digunakan  
+- Bot WhatsApp & Telegram  
+- UX/UI yang bersih & responsif
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
@@ -45,19 +44,22 @@ Saya suka:
 ## 🤖 Bailey WhatsApp Bot
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" width="24" style="vertical-align:middle;" />
-  <strong>Bailey WhatsApp</strong> — Bot WA & Telegram built with Baileys.js + Node.js
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" width="24" style="vertical-align:middle;filter: drop-shadow(1px 1px 1px #0003);" />
+  <strong>Bailey WhatsApp</strong> — Bot WA & Telegram built with **Baileys.js** + **Node.js**
 </p>
 
-🛡️ Fitur:
-- Balas otomatis & antispam  
+🛡️ **Fitur Utama:**
+- Auto-reply & anti-spam  
 - Moderasi grup & logs  
-- Integrasi AI sederhana  
-- Command custom  
+- AI Q&A sederhana  
+- Custom commands support  
 
 📞 **Hubungi Bot:**
 <p align="center">
-  <a href="https://wa.me/6285768351775"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" width="20" /> +62 857‑6835‑1775</a>
+  <a href="https://wa.me/6285768351775">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" width="20" style="vertical-align:middle;" /> 
+    <span style="font-weight:bold; margin-left:6px; color:#25D366;">+62 857‑6835‑1775</span>
+  </a>
 </p>
 
 ---
@@ -65,43 +67,40 @@ Saya suka:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4rnzz&show_icons=true&theme=radical" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4rnzz&show_icons=true&theme=radical&count_private=true" width="90%" style="border:3px solid #4CAF50;border-radius:10px;" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rnzz&theme=radical" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rnzz&theme=radical" width="90%" style="border:3px solid #2196F3;border-radius:10px;" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnzz&layout=compact&theme=radical" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnzz&layout=compact&theme=radical" width="60%" style="border:3px solid #FFC107;border-radius:10px;" />
 </p>
 
 ---
 
 ## 📱 Kontak Saya
 
-<p align="center">
+<p align="center" style="line-height:2.0;">
   <a href="https://t.me/Alpooooooofoluv">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" width="20" style="vertical-align:middle;" /> Telegram: <strong>@Alpooooooofoluv</strong>
-  </a>
-</p>
-
-<p align="center">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" width="20" style="vertical-align:middle;filter: drop-shadow(1px 1px 1px #0003);" /> 
+    <span style="font-weight:bold; margin-left:6px; color:#0088CC;">@Alpooooooofoluv</span>
+  </a><br>
   <a href="https://wa.me/6285768351775">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" width="20" style="vertical-align:middle;" /> WhatsApp: <strong>+62 857‑6835‑1775</strong>
-  </a>
-</p>
-
-<p align="center">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" width="20" style="vertical-align:middle;filter: drop-shadow(1px 1px 1px #0003);" /> 
+    <span style="font-weight:bold; margin-left:6px; color:#25D366;">+62 857‑6835‑1775</span>
+  </a><br>
   <a href="https://www.tiktok.com/@kepForAnnas">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tiktok.svg" width="20" style="vertical-align:middle;" /> TikTok: <strong>@kepForAnnas</strong>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tiktok.svg" width="20" style="vertical-align:middle;filter: drop-shadow(1px 1px 1px #0003);" /> 
+    <span style="font-weight:bold; margin-left:6px; color:#000;">@kepForAnnas</span>
   </a>
 </p>
 
 ---
 
-> **🌟 Tip:** README kamu sudah punya animasi, warna, badge, stats, dan logo – tinggal `copy-paste`, commit & enjoy!
-
----
+<p align="center">
+  <i style="color:#666;">“Keep coding, keep growing. Don't wait for perfect timing—create it.”</i>
+</p>
 
 <p align="center">
-  <sub>✨ Made with ❤️ by <strong>KepForAnnas</strong> | Keep Coding, Keep Growing © 2025</sub>
+  <sub style="color:#999;">✨ Made with ❤️ by <strong>KepForAnnas</strong> | © 2025</sub>
 </p>
