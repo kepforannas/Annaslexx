@@ -1,95 +1,106 @@
-<h1 align="center">Asslmualaikum Warahmatullahi Wabarakatuh! 🙏</h1>
-<h2 align="center">Welcome to the official GitHub of <span style="color:#4CAF50;">KepForAnnas</span> 👋</h2>
+<h1 align="center">Assalamu'alaikum 👋, I'm <span style="color:#4CAF50;">KepForAnnas</span></h1>
+<h3 align="center">Code Builder | Bot Maker | Indie Dev 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4CAF50&width=600&lines=I'm+KepForAnnas!;A+Passionate+Indie+Developer.;Let's+Create+Magic+with+Code+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=4CAF50&width=500&lines=Welcome+to+my+Code+World!;I+Create+Solutions,+Not+Just+Apps.;Powered+by+Ideas+%26+Execution!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌟 About Me
+### 👨‍💻 Tentang Saya
 
-Halo! Aku <b>KepForAnnas</b>, developer yang suka eksplorasi teknologi dan bikin aplikasi kece untuk memudahkan hidup. Aku percaya bahwa setiap baris kode adalah karya seni, dan saya ingin berbagi karya terbaikku di sini.
+Halo! Saya **KepForAnnas** – seorang developer independen yang suka membangun proyek-proyek bermanfaat dari nol. Buat saya, coding bukan cuma pekerjaan, tapi **seni merakit solusi**.  
+Setiap baris kode yang saya tulis adalah hasil dari semangat, trial & error, dan rasa ingin tahu yang besar. Saya percaya:
 
-- 🔭 Fokus saat ini: Web apps, Bots Telegram, dan AI automation  
-- 🌱 Sedang belajar: Rust, Go, Machine Learning  
-- 💬 Open untuk diskusi dan kolaborasi  
-- 🎯 Motto: "Kode bersih, solusi tepat, hasil nyata"  
+> _“Code is not just logic — it’s language, soul, and strategy.”_
 
----
-
-### 📫 Let's Connect!  
-<p align="center">
-  <a href="https://t.me/Alpooooooofoluv" target="_blank" style="margin:0 20px; text-decoration:none; color:#000;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" width="26" height="26" style="vertical-align:middle;" />
-    <span style="font-weight:bold; margin-left:8px; vertical-align:middle;">@Alpooooooofoluv</span>
-  </a>
-  <a href="https://wa.me/6285768351775" target="_blank" style="margin:0 20px; text-decoration:none; color:#000;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" width="26" height="26" style="vertical-align:middle;" />
-    <span style="font-weight:bold; margin-left:8px; vertical-align:middle;">+62 857-6835-1775</span>
-  </a>
-  <a href="https://www.tiktok.com/@kepForAnnas" target="_blank" style="margin:0 20px; text-decoration:none; color:#000;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tiktok.svg" alt="TikTok" width="26" height="26" style="vertical-align:middle;" />
-    <span style="font-weight:bold; margin-left:8px; vertical-align:middle;">@kepForAnnas</span>
-  </a>
-</p>
+Saya membangun bot, web app, tool automasi, dan berbagai produk digital yang bertujuan membantu orang lain.
 
 ---
 
-### 🚀 Tech Stack & Skills
+### 🚀 My Tech Stack
 
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" alt="JavaScript" width="20" /> JavaScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" alt="TypeScript" width="20" /> TypeScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/node-dot-js.svg" alt="Node.js" width="20" /> Node.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" alt="React" width="20" /> React &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/next-dot-js.svg" alt="Next.js" width="20" /> Next.js &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" alt="Tailwind" width="20" /> Tailwind CSS
 </p>
 
 ---
 
-### 📊 GitHub Stats & Contact Summary
+### 📱 Bailey WhatsApp Bot
+
+> 🤖 **Bailey WhatsApp** is my personal WA-based bot project designed to **automate conversations, manage groups, and simplify communication.**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4rnzz&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" width="22" style="vertical-align: middle;" />
+  <span style="font-size:16px; font-weight:bold;"> WhatsApp: <a href="https://wa.me/6285768351775" target="_blank">+62 857-6835-1775</a></span>
 </p>
 
-<p align="center" style="margin-top:-30px; font-size:14px; color:#666;">
-  *Current streak and contributions - keep coding!*
-</p>
+🛠 Fitur Utama Bailey WhatsApp:
+- Auto-reply, anti-spam, dan group protection  
+- Integrasi AI sederhana dan QnA  
+- Bisa digunakan untuk customer support  
+- Dibangun menggunakan **Baileys.js** dan **Node.js**
 
-<p align="center" style="margin-top:40px;">
-  <a href="https://t.me/Alpooooooofoluv" target="_blank" style="margin: 0 15px; text-decoration:none; color:#4CAF50; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" width="20" height="20" style="vertical-align:middle; filter: drop-shadow(1px 1px 1px #00000033);" />
-    <span style="vertical-align:middle; margin-left:6px;">Telegram: @Alpooooooofoluv</span>
-  </a>
-  <a href="https://wa.me/6285768351775" target="_blank" style="margin: 0 15px; text-decoration:none; color:#25D366; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" width="20" height="20" style="vertical-align:middle; filter: drop-shadow(1px 1px 1px #00000033);" />
-    <span style="vertical-align:middle; margin-left:6px;">WhatsApp: +62 857-6835-1775</span>
-  </a>
-  <a href="https://www.tiktok.com/@kepForAnnas" target="_blank" style="margin: 0 15px; text-decoration:none; color:#000; font-weight:bold;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tiktok.svg" alt="TikTok" width="20" height="20" style="vertical-align:middle; filter: drop-shadow(1px 1px 1px #00000033);" />
-    <span style="vertical-align:middle; margin-left:6px;">TikTok: @kepForAnnas</span>
-  </a>
-</p>
+💡 _“Built not just for chatting, but for empowering conversations.”_
 
 ---
 
-### 🔥 Most Used Languages
+### 💬 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnzz&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://t.me/Alpooooooofoluv" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" width="20" alt="Telegram" />
+    <span> Telegram: @Alpooooooofoluv</span>
+  </a> •
+  <a href="https://wa.me/6285768351775" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" width="20" alt="WhatsApp" />
+    <span> WhatsApp: +62 857-6835-1775</span>
+  </a> •
+  <a href="https://www.tiktok.com/@kepForAnnas" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tiktok.svg" width="20" alt="TikTok" />
+    <span> TikTok: @kepForAnnas</span>
+  </a>
 </p>
 
 ---
 
-### 💡 Fun Fact
+### 📊 GitHub Stats
 
-> "Every project is a step towards mastering the art of problem solving. Code is poetry, and I’m just getting started."  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4rnzz&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rnzz&theme=radical" width="48%" />
+</p>
 
 ---
 
-<p align="center" style="margin-top:60px;">
-  <sub>Made with ❤️ by <b>KepForAnnas</b> | <i>Keep coding, keep growing!</i></sub>
+### 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnzz&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 💡 Fun Facts
+
+- Saya pernah membuat bot pribadi hanya dengan **Node.js + json**  
+- Suka banget ngulik terminal dan CLI tools  
+- Punya mimpi bikin framework sendiri untuk WhatsApp automation  
+
+---
+
+<p align="center">
+  <b>“Jangan tunggu sempurna untuk mulai. Mulailah, dan sempurnakan sambil berjalan.”</b><br/>
+  — KepForAnnas
+</p>
+
+---
+
+<p align="center">
+  <sub>Crafted with ❤️ by <b>KepForAnnas</b> | All rights reserved © 2025</sub>
 </p>
