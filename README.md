@@ -16,15 +16,15 @@
 
 ## 👨‍💻 Tentang Saya
 
-Halo, saya **KepForAnnas** – indie developer dan bot maker.  
-Coding bagi saya adalah **seni mengubah ide menjadi aksi nyata**, dari web app hingga bot otomatis penuh fungsi.
+Halo, saya KepForAnnas – indie developer dan bot maker.  
+Coding bagi saya adalah seni mengubah ide menjadi aksi nyata, dari web app hingga bot otomatis penuh fungsi.
 
-> _“Code adalah puisi digital — setiap baris punya tujuan, estetika, dan dampak.”_
+> “Code adalah puisi digital — setiap baris punya tujuan, estetika, dan dampak.”
 
 Saya tertarik:
-- Automasi & AI sederhana  
-- Bot WhatsApp & Telegram  
-- UX/UI yang bersih & responsif
+- Automasi dan AI sederhana  
+- Bot WhatsApp dan Telegram  
+- UX/UI yang bersih dan responsif  
 
 ---
 
@@ -45,19 +45,18 @@ Saya tertarik:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" width="24" style="vertical-align:middle;filter: drop-shadow(1px 1px 1px #0003);" />
-  <strong>Bailey WhatsApp</strong> — Bot WA & Telegram built with **Baileys.js** + **Node.js**
+  <b>Bailey WhatsApp</b> — Bot WA dan Telegram dibangun menggunakan Baileys.js, Node.js, Linux, Python, HTML, CSS, dan XML
 </p>
 
-🛡️ **Fitur Utama:**
-- Auto-reply & anti-spam  
-- Moderasi grup & logs  
-- AI Q&A sederhana  
-- Custom commands support  
+Fitur Utama:
+- Auto-reply dan anti-spam  
+- Moderasi grup dan logs  
+- AI tanya jawab sederhana  
+- Command yang bisa dikustom  
 
-📞 **Hubungi Bot:**
 <p align="center">
   <a href="https://wa.me/6285768351775">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" width="20" style="vertical-align:middle;" /> 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" width="20" style="vertical-align:middle;" />
     <span style="font-weight:bold; margin-left:6px; color:#25D366;">+62 857‑6835‑1775</span>
   </a>
 </p>
@@ -69,9 +68,11 @@ Saya tertarik:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4rnzz&show_icons=true&theme=radical&count_private=true" width="90%" style="border:3px solid #4CAF50;border-radius:10px;" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rnzz&theme=radical" width="90%" style="border:3px solid #2196F3;border-radius:10px;" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnzz&layout=compact&theme=radical" width="60%" style="border:3px solid #FFC107;border-radius:10px;" />
 </p>
@@ -80,17 +81,19 @@ Saya tertarik:
 
 ## 📱 Kontak Saya
 
-<p align="center" style="line-height:2.0;">
+<p align="center">
   <a href="https://t.me/Alpooooooofoluv">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" width="20" style="vertical-align:middle;filter: drop-shadow(1px 1px 1px #0003);" /> 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" width="20" style="vertical-align:middle;filter: drop-shadow(1px 1px 1px #0003);" />
     <span style="font-weight:bold; margin-left:6px; color:#0088CC;">@Alpooooooofoluv</span>
-  </a><br>
+  </a>
+  <br>
   <a href="https://wa.me/6285768351775">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" width="20" style="vertical-align:middle;filter: drop-shadow(1px 1px 1px #0003);" /> 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" width="20" style="vertical-align:middle;filter: drop-shadow(1px 1px 1px #0003);" />
     <span style="font-weight:bold; margin-left:6px; color:#25D366;">+62 857‑6835‑1775</span>
-  </a><br>
+  </a>
+  <br>
   <a href="https://www.tiktok.com/@kepForAnnas">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tiktok.svg" width="20" style="vertical-align:middle;filter: drop-shadow(1px 1px 1px #0003);" /> 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tiktok.svg" width="20" style="vertical-align:middle;filter: drop-shadow(1px 1px 1px #0003);" />
     <span style="font-weight:bold; margin-left:6px; color:#000;">@kepForAnnas</span>
   </a>
 </p>
@@ -98,9 +101,9 @@ Saya tertarik:
 ---
 
 <p align="center">
-  <i style="color:#666;">“Keep coding, keep growing. Don't wait for perfect timing—create it.”</i>
+  <i style="color:#666;">“Keep coding, keep growing. Jangan tunggu waktu yang sempurna — ciptakan sendiri.”</i>
 </p>
 
 <p align="center">
-  <sub style="color:#999;">✨ Made with ❤️ by <strong>KepForAnnas</strong> | © 2025</sub>
+  <sub style="color:#999;">✨ Dibuat dengan ❤️ oleh <b>KepForAnnas</b> | © 2025</sub>
 </p>
