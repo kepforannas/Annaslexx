@@ -1,41 +1,42 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">KepForAnnas</span></h1>
-<h3 align="center">Indie Developer | Tech Enthusiast | Always Creating</h3>
+<h1 align="center">Asslmualaikum Warahmatullahi Wabarakatuh! 🙏</h1>
+<h2 align="center">Welcome to the official GitHub of <span style="color:#4CAF50;">KepForAnnas</span> 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4CAF50&width=500&lines=Welcome+to+my+GitHub!;I'm+KepForAnnas.;Let's+build+awesome+stuff+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4CAF50&width=600&lines=I'm+KepForAnnas!;A+Passionate+Indie+Developer.;Let's+Create+Magic+with+Code+Together!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 About Me
+### 🌟 About Me
 
-- 🔭 Currently focused on scalable web apps & bots  
-- 🌱 Exploring Rust, Go, and AI-powered automation  
-- 💬 Open for collaboration and new challenges  
-- 🎯 Passionate about clean code & UX  
+Halo! Aku <b>KepForAnnas</b>, developer yang suka eksplorasi teknologi dan bikin aplikasi kece untuk memudahkan hidup. Aku percaya bahwa setiap baris kode adalah karya seni, dan saya ingin berbagi karya terbaikku di sini.
+
+- 🔭 Fokus saat ini: Web apps, Bots Telegram, dan AI automation  
+- 🌱 Sedang belajar: Rust, Go, Machine Learning  
+- 💬 Open untuk diskusi dan kolaborasi  
+- 🎯 Motto: "Kode bersih, solusi tepat, hasil nyata"  
 
 ---
 
-### 📫 Contact Me
-
+### 📫 Let's Connect!  
 <p align="center">
-  <a href="https://t.me/Alpooooooofoluv" target="_blank" style="margin: 0 15px; text-decoration:none; color:#000;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" width="24" height="24" style="vertical-align:middle;" />
-    <span style="margin-left:6px; vertical-align:middle;">@Alpooooooofoluv</span>
+  <a href="https://t.me/Alpooooooofoluv" target="_blank" style="margin:0 20px; text-decoration:none; color:#000;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" width="26" height="26" style="vertical-align:middle;" />
+    <span style="font-weight:bold; margin-left:8px; vertical-align:middle;">@Alpooooooofoluv</span>
   </a>
-  <a href="https://wa.me/6285768351775" target="_blank" style="margin: 0 15px; text-decoration:none; color:#000;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" width="24" height="24" style="vertical-align:middle;" />
-    <span style="margin-left:6px; vertical-align:middle;">+62 857-6835-1775</span>
+  <a href="https://wa.me/6285768351775" target="_blank" style="margin:0 20px; text-decoration:none; color:#000;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" width="26" height="26" style="vertical-align:middle;" />
+    <span style="font-weight:bold; margin-left:8px; vertical-align:middle;">+62 857-6835-1775</span>
   </a>
-  <a href="https://www.tiktok.com/@kepForAnnas" target="_blank" style="margin: 0 15px; text-decoration:none; color:#000;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tiktok.svg" alt="TikTok" width="24" height="24" style="vertical-align:middle;" />
-    <span style="margin-left:6px; vertical-align:middle;">@kepForAnnas</span>
+  <a href="https://www.tiktok.com/@kepForAnnas" target="_blank" style="margin:0 20px; text-decoration:none; color:#000;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tiktok.svg" alt="TikTok" width="26" height="26" style="vertical-align:middle;" />
+    <span style="font-weight:bold; margin-left:8px; vertical-align:middle;">@kepForAnnas</span>
   </a>
 </p>
 
 ---
 
-### 🚀 Skills & Tools
+### 🚀 Tech Stack & Skills
 
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -48,18 +49,34 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contact Summary
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4rnzz&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rnzz&theme=radical" alt="GitHub Streak" />
+
+<p align="center" style="margin-top:-30px; font-size:14px; color:#666;">
+  *Current streak and contributions - keep coding!*
+</p>
+
+<p align="center" style="margin-top:40px;">
+  <a href="https://t.me/Alpooooooofoluv" target="_blank" style="margin: 0 15px; text-decoration:none; color:#4CAF50; font-weight:bold;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="Telegram" width="20" height="20" style="vertical-align:middle; filter: drop-shadow(1px 1px 1px #00000033);" />
+    <span style="vertical-align:middle; margin-left:6px;">Telegram: @Alpooooooofoluv</span>
+  </a>
+  <a href="https://wa.me/6285768351775" target="_blank" style="margin: 0 15px; text-decoration:none; color:#25D366; font-weight:bold;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" alt="WhatsApp" width="20" height="20" style="vertical-align:middle; filter: drop-shadow(1px 1px 1px #00000033);" />
+    <span style="vertical-align:middle; margin-left:6px;">WhatsApp: +62 857-6835-1775</span>
+  </a>
+  <a href="https://www.tiktok.com/@kepForAnnas" target="_blank" style="margin: 0 15px; text-decoration:none; color:#000; font-weight:bold;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tiktok.svg" alt="TikTok" width="20" height="20" style="vertical-align:middle; filter: drop-shadow(1px 1px 1px #00000033);" />
+    <span style="vertical-align:middle; margin-left:6px;">TikTok: @kepForAnnas</span>
+  </a>
 </p>
 
 ---
 
-### 🧩 Languages I Speak
+### 🔥 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnzz&layout=compact&theme=radical" alt="Top Languages" />
@@ -67,22 +84,12 @@
 
 ---
 
-### 🔥 Let's Connect!
+### 💡 Fun Fact
 
-<p align="center">
-  <a href="https://github.com/4rnzz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/kepforannas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/kepforannas" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+> "Every project is a step towards mastering the art of problem solving. Code is poetry, and I’m just getting started."  
 
 ---
 
-<p align="center">
-  <sub>Crafted with ❤️ by <b>KepForAnnas</b></sub>
+<p align="center" style="margin-top:60px;">
+  <sub>Made with ❤️ by <b>KepForAnnas</b> | <i>Keep coding, keep growing!</i></sub>
 </p>
