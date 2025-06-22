@@ -1,45 +1,30 @@
 <h1 align="center">
-  🌟 KEPFORANNAS 🌟  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+KEPFORANNAS+%F0%9F%91%8B;Python+Coder+%7C+Linux+User+%7C+Creative+Thinker" alt="Typing SVG" />
 </h1>
-<p align="center"><i>“Koding adalah seni. Hidup adalah algoritma.”</i></p>
 
 ---
 
-## 👋 Halo Dunia!
-
-Halo! Saya **KEPFORANNAS**, seorang penggila teknologi, pemburu bug, dan pengabdi terminal. Saya menulis kode dengan semangat, mencetak solusi dengan ketekunan, dan membangun dunia digital dari baris-baris Python, HTML, dan CSS.
-
----
-
-## 🧠 Profil Kode Saya
+## 🔥 About Me - Developer by Soul
 
 ```python
 class Kepforannas:
     def __init__(self):
-        self.nama = "KEPFORANNAS"
-        self.usia = 21
-        self.bahasa = ["Bahasa Indonesia", "English", "Javanese"]
-        self.level = {
+        self.name = "KEPFORANNAS"
+        self.age = 21
+        self.origin = "Indonesia"
+        self.languages = ["Bahasa Indonesia", "English", "Javanese"]
+        self.skills = {
             "Expert": ["Python", "HTML", "CSS"],
             "Learning": ["JavaScript", "PHP"]
         }
-        self.tools = ["VSCode", "Git", "Linux", "Terminal"]
-        self.status = "Selalu Belajar"
+        self.tools = ["VSCode", "Git", "Linux", "Terminal", "Markdown"]
 
-    def motto(self):
-        return "Jangan berhenti sebelum error jadi feature."
-
-    def kontak(self):
+    def contact(self):
         return {
             "WhatsApp": "+62 857-6835-1775",
             "Telegram": "@Alpooooooofoluv",
             "Email": "kepforannas@gmail.com"
         }
 
-    def aktifitas(self):
-        return [
-            "Ngebangun script otomatisasi",
-            "Nge-debug error sampai pagi",
-            "Ngoding pakai terminal",
-            "Bikin dokumentasi project sendiri"
-        ]
+    def philosophy(self):
+        return "Koding bukan gaya hidup, tapi jalan hidup."
