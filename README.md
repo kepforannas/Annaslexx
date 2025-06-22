@@ -1,42 +1,39 @@
-<!-- Typing Animation Title -->
+<!-- Header dengan efek mengetik -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+There!+I'm+KEPFORANNAS+%F0%9F%91%8B;A+passionate+Python+Developer+%F0%9F%92%BB;Code+%7C+Coffee+%7C+Keyboard+Smash" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=450&lines=Halo+Saya+KEPFORANNAS;Python+Dev+%7C+Linux+Wizard+%7C+Just+Misquin" alt="Typing SVG" />
 </h1>
 
-<!-- Profile Views -->
+<!-- Rainbow border container (GIF trick) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kepforannas&style=flat-square&color=blueviolet" alt="profile views" />
+  <img src="https://i.imgur.com/7T0vO4C.gif" width="90%" style="border-radius:10px" />
 </p>
+
+<!-- Animated rainbow box around profile (GIF Frame Simulation) -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/3b/fe/f0/3bfef0955cbe56856b7f7f7bda1e00ed.gif" width="100%" style="border-radius:20px" />
+  <div style="position: absolute; top: 20%; left: 20%;">
+    <h2>🔥 KEPFORANNAS 🔥</h2>
+    <p>☕ Python Coder | 👨‍💻 Linux Explorer | 🧠 Constant Learner</p>
+  </div>
+</div>
 
 ---
 
-## 🧠 Who is KEPFORANNAS?
+## 👤 Tentang Saya
 
 ```python
-from typing import Tuple, List, Dict
+class Kepforannas:
+    def __init__(self):
+        self.name = "KEPFORANNAS"
+        self.age = 21
+        self.languages = ["Bahasa Indonesia", "English", "Javanese"]
+        self.expertise = ["Python", "HTML", "CSS"]
+        self.learning = ["JavaScript", "PHP"]
+        self.tools = ["VSCode", "Linux", "Git"]
 
-class misquin:
-    pass
-
-class Attributes(misquin):
-    @property
-    def contact(self) -> Tuple[str, str, str]:
-        whatsapp = "+6285768351775"
-        telegram = "@Alpooooooofoluv"
-        email    = "kepforannas@gmail.com"
-        return whatsapp, telegram, email
-
-    @property
-    def life(self) -> Tuple[List[str], int]:
-        langs = ['Bahasa Indonesia', 'English', 'Javanese']
-        age   = 21
-        return langs, age
-
-    @property
-    def coding(self) -> Tuple[Dict[str, List[str]], List[str]]:
-        langs = {
-            'expert'   : ['Python', 'HTML', 'CSS'],
-            'learning' : ['JavaScript', 'PHP']
+    def contact(self):
+        return {
+            "WhatsApp": "+62 857-6835-1775",
+            "Telegram": "@Alpooooooofoluv",
+            "Email": "kepforannas@gmail.com"
         }
-        tools = ['VSCode', 'Linux', 'Git']
-        return langs, tools
