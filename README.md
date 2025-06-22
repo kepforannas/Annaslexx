@@ -18,10 +18,10 @@
 
 ### 📫 How to reach me:
 
-- GitHub: [@4rnzz](https://github.com/4rnzz)
+- GitHub: [@kepforannas](https://github.com/kepForAnna)
 - Instagram: [@kepforannas](https://instagram.com/kepforannas)
-- Email: `your.email@example.com` (ganti dengan emailmu)
-- Blog (optional): [your-blog.com](https://your-blog.com)
+- Email: `kepforannas@example.com`
+- Blog (optional): [Telegram](https://t.me/Alpooooooofoluv)
 
 ---
 
@@ -44,8 +44,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4rnzz&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rnzz&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anas&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas&theme=radical" />
 </p>
 
 ---
@@ -53,16 +53,16 @@
 ### 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnzz&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### ✨ Projects Showcase (Optional)
 
-- 🔗 [kepForBot](https://github.com/4rnzz/kepForBot) — Telegram bot for productivity
-- 🔗 [mindframe](https://github.com/4rnzz/mindframe) — CLI-based journal logger
-- 🔗 [ranote](https://github.com/4rnzz/ranote) — Minimalist markdown note app
+- 🔗 [kepForBot](https://github.com/anas/kepForBot) — Telegram bot for productivity
+- 🔗 [mindframe](https://github.com/anas/mindframe) — CLI-based journal logger
+- 🔗 [ranote](https://github.com/anas/ranote) — Minimalist markdown note app
 
 ---
 
