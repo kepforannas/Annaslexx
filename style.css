@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: 'Courier New', monospace;
+  background: linear-gradient(135deg, #000428, #004e92);
+  color: white;
+  overflow: hidden;
+}
+.wave-bg::before {
+  content: '';
+  position: absolute;
+  top: -100px;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(0,255,255,0.3), transparent 70%);
+  animation: wave 15s linear infinite;
+  z-index: -1;
+}
+@keyframes wave {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.login-box {
+  background: rgba(0,0,0,0.7);
+  padding: 30px;
+  max-width: 350px;
+  margin: 120px auto;
+  border-radius: 15px;
+  box-shadow: 0 0 25px cyan;
+  text-align: center;
+}
+input, button {
+  display: block;
+  width: 90%;
+  padding: 12px;
+  margin: 10px auto;
+  border-radius: 8px;
+  border: none;
+}
+input {
+  background: #222;
+  color: white;
+}
+button {
+  background: cyan;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
